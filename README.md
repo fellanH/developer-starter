@@ -1,6 +1,6 @@
-# Salty Developer Project
+# Salty Test
 
-Main codebase for the Salty Developer Project.
+test for the Salty Developer Project.
 
 ## Reference
 
