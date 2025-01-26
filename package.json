@@ -1,13 +1,13 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@stormfors/salty-developer-project",
   "version": "0.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "description": "Codebase for the Salty Developer Project.",
+  "homepage": "https://www.salty.com",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://finsweet.com/"
+    "name": "Stormfors",
+    "url": "https://www.stormfors.com/"
   },
   "repository": {
     "type": "git",

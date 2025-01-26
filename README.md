@@ -1,8 +1,6 @@
-# Finsweet Developer Starter
+# Salty Developer Project
 
-A starter template for both Client & Power projects.
-
-Before starting to work with this template, please take some time to read through the documentation.
+Main codebase for the Salty Developer Project.
 
 ## Reference
 
